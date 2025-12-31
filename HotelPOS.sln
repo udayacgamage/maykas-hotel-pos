@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelPOS", "HotelPOS.csproj", "{785F1853-1E2D-45B3-966B-88E18F23AA53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{785F1853-1E2D-45B3-966B-88E18F23AA53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{785F1853-1E2D-45B3-966B-88E18F23AA53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{785F1853-1E2D-45B3-966B-88E18F23AA53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{785F1853-1E2D-45B3-966B-88E18F23AA53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF3E7D84-7617-4809-A12F-898F117E9FF0}
+	EndGlobalSection
+EndGlobal
